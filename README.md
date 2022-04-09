@@ -1,6 +1,6 @@
 # ProjetoMenuFoods
 
-Projeto desenvolvido na aula de dispositivos para móveis
+Projeto desenvolvido na aula de dispositivos para móveis com o fim de fazer uma tela de Login e Registro
 
 ## Ferramentas
 
